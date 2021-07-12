@@ -1,4 +1,4 @@
-👋 Hi, I’m @WeerasingheDPS
+👋 Hi, I’m @WeerasingheDPS.
 👀 I'm interested in Javascript, Python, HTML,PHP.
 🌱 I’m currently undergraduate Computer Science at the University of Colombo.
 💞️ I'm looking to collaborate on Computer Vision, Javascript, Python, Angular, React, Nodejs, Arduino projects.
