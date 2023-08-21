@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React, NodeJS, and ExpressJS**
+- 🌱 I’m currently learning **React, Java, and Spring Boot**
 
 - 📫 How to reach me **dpsweerasinghe98@gmail.com**
 
